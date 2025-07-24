@@ -27,7 +27,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 
 ### 🧰 Tech Stack
 
-#### Linguagens de Programação
+#### Programming Languages
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat)
 &nbsp;
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white)
@@ -42,7 +42,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 &nbsp;
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-#### Plataformas e Microcontroladores
+#### Platforms and Microcontrollers
 ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-blue?style=flat&logo=stmicroelectronics&logoColor=white)
 &nbsp;
 ![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)
@@ -53,7 +53,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 &nbsp;
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=flat&logo=freertos&logoColor=white)
 
-#### Protocolos e Comunicação
+#### Protocols and Communication
 ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)
 &nbsp;
 ![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)
@@ -75,7 +75,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 &nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-#### Ferramentas e Software
+#### Tools and Software
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
 &nbsp;
 ![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=flat)
