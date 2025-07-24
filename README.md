@@ -117,5 +117,6 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93.SCRF_HP)
 
-![Contador](https://img.shields.io/badge/dynamic/json?color=success&label=visits&query=value&url=https://api.countapi.xyz/hit/manoper93.SCRF_HP/visits)
+![Visits](https://img.shields.io/badge/dynamic/json?color=blue&label=visits&query=value&url=https://api.countapi.xyz/hit/manoper93.SCRF_HP/visits)
+per93.SCRF_HP/visits)
 
