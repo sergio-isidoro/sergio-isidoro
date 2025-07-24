@@ -19,11 +19,9 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 
 ### 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-isidoro/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:teu.email@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://manoper93.github.io/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/2m7MY99G4a)
 
 ---
 
