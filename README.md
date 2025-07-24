@@ -1,12 +1,12 @@
 # 👋 Hi there! 
 
-## I'm Sérgio Silva, Junior Embedded & Electronics Engineer
+## I'm Sérgio Isidoro, Junior Embedded & Electronics Engineer
 
 ---
 
 ### 🧑‍💻 About Me
 
-My name is **Sérgio Silva**, I'm from **Portugal 🇵🇹**, and I recently completed my **Bachelor's degree in Electrical and Computer Engineering** at ISEP.
+My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently completed my **Bachelor's degree in Electrical and Computer Engineering** at ISEP.
 
 💻 Since 2020, I've been developing embedded systems using **STMicroelectronics**, **Microchip**, and **Espressif** platforms.  
 🔧 I’m passionate about **low-level firmware**, **circuit design**, and **real-time systems**, and I enjoy working on performance-optimized and low-power solutions.
