@@ -49,6 +49,8 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=compact&theme=tokyonight)
 &nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&theme=tokyonight&langs_count=10)
+&nbsp;
 ![Sérgio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
