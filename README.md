@@ -29,8 +29,6 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 
 ### 🧰 Tech Stack
 
-### 🧰 Tech Stack
-
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white)
 &nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -45,8 +43,6 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 &nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-<br>
-
 ![STM32](https://img.shields.io/badge/STM32-blue?style=flat&logo=stmicroelectronics&logoColor=white)
 &nbsp;
 ![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)
@@ -58,8 +54,6 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=flat&logo=freertos&logoColor=white)
 &nbsp;
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat&logo=platformio&logoColor=white)
-
-<br>
 
 ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)
 &nbsp;
@@ -73,15 +67,11 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 &nbsp;
 ![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)
 
-<br>
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 &nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-<br>
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
 &nbsp;
