@@ -19,20 +19,28 @@ My name is **Sérgio Silva**, I'm from **Portugal 🇵🇹**, and I recently com
 
 ### 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:teu.email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:teu.email@gmail.com)
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://manoper93.github.io/)
 
 ---
 
 ### 🧰 Tech Stack
 
-![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white)  
-![STM32](https://img.shields.io/badge/STM32-blue?style=flat&logo=stmicroelectronics&logoColor=white)  
+![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white)
+&nbsp;
+![STM32](https://img.shields.io/badge/STM32-blue?style=flat&logo=stmicroelectronics&logoColor=white) 
+&nbsp;
 ![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)  
+&nbsp;
 ![ESP32](https://img.shields.io/badge/Espressif-black?style=flat&logo=espressif&logoColor=white)  
+&nbsp;
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=flat&logo=freertos&logoColor=white)  
+&nbsp;
 ![KiCad](https://img.shields.io/badge/KiCad-223344?style=flat&logo=kicad&logoColor=white)  
+&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ---
