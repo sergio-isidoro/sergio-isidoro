@@ -47,12 +47,12 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=donut&theme=tokyonight&langs_count=20)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=donut&theme=github_dark&langs_count=20)
 &nbsp;
-![Sérgio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=tokyonight&count_private=true)
+![Sérgio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)
 
 ---
 
 ### 📌 Pinned Projects
 
-[![SCRF_HP](https://github-readme-stats.vercel.app/api/pin/?username=manoper93&repo=SCRF_HP&theme=tokyonight)](https://github.com/manoper93/SCRF_HP)
+[![SCRF_HP](https://github-readme-stats.vercel.app/api/pin/?username=manoper93&repo=SCRF_HP&theme=github_dark)](https://github.com/manoper93/SCRF_HP)
