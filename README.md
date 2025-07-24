@@ -93,6 +93,14 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 &nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+&nbsp;
+![20-SIM](https://img.shields.io/badge/20--SIM-FF6C37?style=flat&logo=simulink&logoColor=white)
+&nbsp;
+![Processing](https://img.shields.io/badge/Processing-0096D8?style=flat&logo=processingfoundation&logoColor=white)
+&nbsp;
+![Proteus](https://img.shields.io/badge/Proteus-1A1A1A?style=flat&logo=&logoColor=white)
+&nbsp;
+![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)
 
 ---
 
