@@ -27,7 +27,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 
 ### 🧰 Tech Stack
 
-### Linguagens de Programação
+#### Linguagens de Programação
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat)
 &nbsp;
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white)
