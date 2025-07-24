@@ -115,8 +115,4 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 [![SCRF_HP](https://github-readme-stats.vercel.app/api/pin/?username=manoper93&repo=SCRF_HP&theme=github_dark)](https://github.com/manoper93/SCRF_HP)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93.SCRF_HP)
-
-![Visits](https://img.shields.io/badge/dynamic/json?color=blue&label=visits&query=value&url=https://api.countapi.xyz/hit/manoper93.SCRF_HP/visits)
-per93.SCRF_HP/visits)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93.SCRF_HP)
