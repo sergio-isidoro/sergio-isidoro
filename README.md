@@ -8,7 +8,7 @@
 
 My name is **Sérgio Silva**, I'm from **Portugal 🇵🇹**, and I recently completed my **Bachelor's degree in Electrical and Computer Engineering** at ISEP.
 
-💻 Since 2023, I've been developing embedded systems using **STM32**, **Microchip**, and **Espressif** platforms.  
+💻 Since 2020, I've been developing embedded systems using **STM32**, **Microchip**, and **Espressif** platforms.  
 🔧 I’m passionate about **low-level firmware**, **circuit design**, and **real-time systems**, and I enjoy working on performance-optimized and low-power solutions.
 
 💡 I love blending **logic with creativity**—whether it’s debugging a tricky issue, designing a PCB, or optimizing embedded communication protocols.
