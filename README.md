@@ -30,13 +30,14 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 ## Tecnologias e Ferramentas
 
 ### Linguagens de Programação
+&nbsp;
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat)
+&nbsp;
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white)
 &nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 &nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-&nbsp;
-![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat)
 &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 &nbsp;
