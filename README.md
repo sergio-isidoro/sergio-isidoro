@@ -54,8 +54,6 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 &nbsp;
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=flat&logo=freertos&logoColor=white)
-&nbsp;
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat&logo=platformio&logoColor=white)
 
 ### Protocolos e Comunicação
 ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)
