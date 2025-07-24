@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi there! 
 
-<!--
-**manoper93/manoper93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Sérgio Silva, Junior Embedded & Electronics Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+My name is **Sérgio Silva**, I'm from **Portugal 🇵🇹**, and I recently completed my **Bachelor's degree in Electrical and Computer Engineering** at ISEP.
+
+💻 Since 2023, I've been developing embedded systems using **STM32**, **Microchip**, and **Espressif** platforms.  
+🔧 I’m passionate about **low-level firmware**, **circuit design**, and **real-time systems**, and I enjoy working on performance-optimized and low-power solutions.
+
+💡 I love blending **logic with creativity**—whether it’s debugging a tricky issue, designing a PCB, or optimizing embedded communication protocols.
+
+🌱 Outside of engineering, I enjoy **cycling**, **music**, and spending time in **nature** to stay balanced and inspired.
+
+---
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:teu.email@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://manoper93.github.io/)
+
+---
+
+### 🧰 Tech Stack
+
+![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white)  
+![STM32](https://img.shields.io/badge/STM32-blue?style=flat&logo=stmicroelectronics&logoColor=white)  
+![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)  
+![ESP32](https://img.shields.io/badge/Espressif-black?style=flat&logo=espressif&logoColor=white)  
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=flat&logo=freertos&logoColor=white)  
+![KiCad](https://img.shields.io/badge/KiCad-223344?style=flat&logo=kicad&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats
+
+![Sérgio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=compact&theme=tokyonight)
+
+---
+
+### 📌 Pinned Projects
+
+[![SCRF_HP](https://github-readme-stats.vercel.app/api/pin/?username=manoper93&repo=SCRF_HP&theme=tokyonight)](https://github.com/manoper93/SCRF_HP)
