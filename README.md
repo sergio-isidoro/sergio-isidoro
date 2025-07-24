@@ -45,7 +45,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal 🇵🇹**, and I recently c
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### Plataformas e Microcontroladores
-![STM32](https://img.shields.io/badge/STM32-blue?style=flat&logo=stmicroelectronics&logoColor=white)
+![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-blue?style=flat&logo=stmicroelectronics&logoColor=white)
 &nbsp;
 ![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)
 &nbsp;
