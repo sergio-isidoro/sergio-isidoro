@@ -113,5 +113,9 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 ### 📌 Pinned Projects
 
 [![SCRF_HP](https://github-readme-stats.vercel.app/api/pin/?username=manoper93&repo=SCRF_HP&theme=github_dark)](https://github.com/manoper93/SCRF_HP)
-&nbsp;
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93.SCRF_HP)
+
+![Contador](https://img.shields.io/badge/dynamic/json?color=success&label=visits&query=value&url=https://api.countapi.xyz/hit/manoper93.SCRF_HP/visits)
+
