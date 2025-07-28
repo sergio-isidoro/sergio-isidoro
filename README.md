@@ -28,7 +28,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 ### 🧰 Tech Stack
 
 #### Programming Languages
-![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat&logo=assembly&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555)
 &nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 &nbsp;
