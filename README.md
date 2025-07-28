@@ -147,7 +147,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=donut&theme=github_dark&langs_count=20)
 &nbsp;
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true&hide=issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)
 
 ---
 
