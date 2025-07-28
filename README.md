@@ -122,7 +122,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 &nbsp;
 ![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
 
-#### Tools & Software
+#### Software
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
 &nbsp;
 ![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=flat)
