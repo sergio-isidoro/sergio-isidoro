@@ -62,22 +62,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 &nbsp;
 ![ESP32](https://img.shields.io/badge/Espressif-black?style=flat&logo=espressif&logoColor=white)
 
-#### Protocols and Communication
-![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)
-&nbsp;
-![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)
-&nbsp;
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)
-&nbsp;
-![UART](https://img.shields.io/badge/UART-007ACC?style=flat)
-&nbsp;
-![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)
-&nbsp;
-![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)
-&nbsp;
-![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
-
-#### Embedded Features
+#### Embedded Peripherals
 ![AES-128](https://img.shields.io/badge/AES--128-228B22?style=flat)
 &nbsp;
 ![Watchdog](https://img.shields.io/badge/Watchdog-DC143C?style=flat)
@@ -99,6 +84,21 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 ![DAC](https://img.shields.io/badge/DAC-9370DB?style=flat)
 &nbsp;
 ![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)
+&nbsp;
+![etc...](https://img.shields.io/badge/etc...-777777?style=flat)
+
+#### Embedded Protocols
+![UART](https://img.shields.io/badge/UART-007ACC?style=flat)
+&nbsp;
+![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)
+&nbsp;
+![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)
+&nbsp;
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)
+&nbsp;
+![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)
+&nbsp;
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)
 &nbsp;
 ![etc...](https://img.shields.io/badge/etc...-777777?style=flat)
 
