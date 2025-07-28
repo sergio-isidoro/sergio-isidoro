@@ -56,8 +56,6 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 ![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)
 &nbsp;
 ![ESP32](https://img.shields.io/badge/Espressif-black?style=flat&logo=espressif&logoColor=white)
-&nbsp;
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=flat&logo=freertos&logoColor=white)
 
 #### Protocols and Communication
 ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)
@@ -99,9 +97,14 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 &nbsp;
 ![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
 
-#### Tools and Software
+#### Operating Systems & Environments
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 &nbsp;
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003865?style=flat&logo=freertos&logoColor=white)
+
+#### Tools and Software
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
 &nbsp;
 ![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=flat)
