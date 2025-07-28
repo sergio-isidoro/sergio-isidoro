@@ -48,7 +48,12 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-
+#### Database Technologies
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 #### Platforms and Microcontrollers
 ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-blue?style=flat&logo=stmicroelectronics&logoColor=white)
@@ -73,29 +78,29 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 ![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
 
 #### Embedded Features
-![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)
-&nbsp;
-![ADC](https://img.shields.io/badge/ADC-4682B4?style=flat)
-&nbsp;
-![DAC](https://img.shields.io/badge/DAC-9370DB?style=flat)
-&nbsp;
-![WDG](https://img.shields.io/badge/Watchdog-DC143C?style=flat)
-&nbsp;
 ![AES-128](https://img.shields.io/badge/AES--128-228B22?style=flat)
 &nbsp;
-![RTC](https://img.shields.io/badge/RTC-006400?style=flat)
+![Watchdog](https://img.shields.io/badge/Watchdog-DC143C?style=flat)
 &nbsp;
 ![DMA](https://img.shields.io/badge/DMA-9932CC?style=flat)
 &nbsp;
 ![NVIC](https://img.shields.io/badge/NVIC-708090?style=flat)
 &nbsp;
+![RTC](https://img.shields.io/badge/RTC-006400?style=flat)
+&nbsp;
 ![EXTI](https://img.shields.io/badge/EXTI-FF4500?style=flat)
 &nbsp;
-![TIMERS](https://img.shields.io/badge/Timers-4682B4?style=flat)
+![Timers](https://img.shields.io/badge/Timers-4682B4?style=flat)
 &nbsp;
 ![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)
 &nbsp;
-![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
+![ADC](https://img.shields.io/badge/ADC-4682B4?style=flat)
+&nbsp;
+![DAC](https://img.shields.io/badge/DAC-9370DB?style=flat)
+&nbsp;
+![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)
+&nbsp;
+![etc...](https://img.shields.io/badge/etc...-777777?style=flat)
 
 #### Operating Systems & Environments
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
