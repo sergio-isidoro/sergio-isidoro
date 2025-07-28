@@ -42,14 +42,22 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 &nbsp;
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
+#### Web e Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
 #### Platforms and Microcontrollers
 ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-blue?style=flat&logo=stmicroelectronics&logoColor=white)
 &nbsp;
 ![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)
 &nbsp;
 ![ESP32](https://img.shields.io/badge/Espressif-black?style=flat&logo=espressif&logoColor=white)
-&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 &nbsp;
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=flat&logo=freertos&logoColor=white)
 
@@ -65,15 +73,33 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 ![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)
 &nbsp;
 ![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)
+&nbsp;
+![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
 
-#### Web e Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+#### Embedded Features
+![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)
 &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![ADC](https://img.shields.io/badge/ADC-4682B4?style=flat)
 &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![DAC](https://img.shields.io/badge/DAC-9370DB?style=flat)
 &nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![WDG](https://img.shields.io/badge/Watchdog-DC143C?style=flat)
+&nbsp;
+![AES-128](https://img.shields.io/badge/AES--128-228B22?style=flat)
+&nbsp;
+![RTC](https://img.shields.io/badge/RTC-006400?style=flat)
+&nbsp;
+![DMA](https://img.shields.io/badge/DMA-9932CC?style=flat)
+&nbsp;
+![NVIC](https://img.shields.io/badge/NVIC-708090?style=flat)
+&nbsp;
+![EXTI](https://img.shields.io/badge/EXTI-FF4500?style=flat)
+&nbsp;
+![TIMERS](https://img.shields.io/badge/Timers-4682B4?style=flat)
+&nbsp;
+![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)
+&nbsp;
+![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
 
 #### Tools and Software
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
@@ -99,6 +125,8 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 ![Proteus](https://img.shields.io/badge/Proteus-1A1A1A?style=flat&logo=&logoColor=white)
 &nbsp;
 ![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)
+&nbsp;
+![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
 
 ---
 
