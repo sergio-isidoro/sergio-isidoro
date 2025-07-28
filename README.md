@@ -156,3 +156,5 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 [![SCRF_HP](https://github-readme-stats.vercel.app/api/pin/?username=manoper93&repo=SCRF_HP&theme=github_dark)](https://github.com/manoper93/SCRF_HP)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93.SCRF_HP)
+
+[🔄 Atualizar esta página](https://github.com/manoper93?tab=overview)
