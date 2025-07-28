@@ -30,7 +30,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 #### Programming Languages
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat)
 &nbsp;
-![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 &nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 &nbsp;
@@ -60,7 +60,7 @@ My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed 
 &nbsp;
 ![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)
 &nbsp;
-![ESP32](https://img.shields.io/badge/Espressif-black?style=flat&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/Espressif-008080?style=flat&logo=espressif&logoColor=white)
 
 #### Embedded Peripherals
 ![AES-128](https://img.shields.io/badge/AES--128-228B22?style=flat)
