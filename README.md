@@ -8,12 +8,12 @@
 
 My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed my **Bachelor's degree in Electrical and Computer Engineering** at [ISEP](https://www.isep.ipp.pt/Course/Course/23).
 
-💻 Since 2020, I've been developing embedded systems using **STMicroelectronics**, **Microchip**, and **Espressif** platforms.  
-🔧 I’m passionate about **low-level firmware**, **circuit design**, and **real-time systems**, and I enjoy working on performance-optimized and low-power solutions.
+Since 2020, I've been developing embedded systems using **STMicroelectronics**, **Microchip**, and **Espressif** platforms.  
+I’m passionate about **low-level firmware**, **circuit design**, and **real-time systems**, and I enjoy working on performance-optimized and low-power solutions.
 
-💡 I love blending **logic with creativity** whether it’s debugging a tricky issue, designing a PCB, or optimizing embedded communication protocols.
+I love blending **logic with creativity** whether it’s debugging a tricky issue, designing a PCB, or optimizing embedded communication protocols.
 
-🌱 Outside of engineering, I enjoy **cycling**, **music**, and spending time in **nature** to stay balanced and inspired.
+Outside of engineering, I enjoy **cycling**, **music**, and spending time in **nature** to stay balanced and inspired.
 
 ---
 
