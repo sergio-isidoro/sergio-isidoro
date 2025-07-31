@@ -114,7 +114,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
 &nbsp;
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://en.wikipedia.org/wiki/Postman_(software))
 &nbsp;
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/OpenCV)
 &nbsp;
@@ -125,11 +125,11 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=flat)](https://en.wikipedia.org/wiki/Simulink)
 &nbsp;
-[![Simscape](https://img.shields.io/badge/Simscape-8A2BE2?style=flat)](https://www.mathworks.com/products/simscape.html)
+[![Simscape](https://img.shields.io/badge/Simscape-8A2BE2?style=flat)](https://en.m.wikipedia.org/wiki/MATLAB)
 &nbsp;
 [![KiCad](https://img.shields.io/badge/KiCad-223344?style=flat&logo=kicad&logoColor=white)](https://en.wikipedia.org/wiki/KiCad)
 &nbsp;
-[![20-SIM](https://img.shields.io/badge/20--SIM-FF6C37?style=flat&logo=simulink&logoColor=white)](https://www.20sim.com/)
+[![20-SIM](https://img.shields.io/badge/20--SIM-FF6C37?style=flat&logo=simulink&logoColor=white)](https://en.m.wikipedia.org/wiki/20-sim)
 &nbsp;
 [![Processing](https://img.shields.io/badge/Processing-0096D8?style=flat&logo=processingfoundation&logoColor=white)](https://en.wikipedia.org/wiki/Processing_(programming_language))
 &nbsp;
