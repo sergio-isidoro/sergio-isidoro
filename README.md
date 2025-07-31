@@ -26,118 +26,118 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 ### 🧰 Tech Stack
 
 #### Programming Languages
-![Assembly](https://img.shields.io/badge/Assembly-555555)
+[![Assembly](https://img.shields.io/badge/Assembly-555555)](https://en.wikipedia.org/wiki/Assembly_language)
 &nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 &nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 &nbsp;
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 &nbsp;
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 &nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
 &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
 &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
 
 #### Database Technologies
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
 &nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/MongoDB)
 &nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQLite)
 
 #### Platforms & Microcontrollers
-![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-blue?style=flat&logo=stmicroelectronics&logoColor=white)
+[![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-blue?style=flat&logo=stmicroelectronics&logoColor=white)](https://en.wikipedia.org/wiki/STMicroelectronics)
 &nbsp;
-![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)
+[![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Microchip_Technology)
 &nbsp;
-![ESP32](https://img.shields.io/badge/Espressif-008080?style=flat&logo=espressif&logoColor=white)
+[![ESP32](https://img.shields.io/badge/Espressif-008080?style=flat&logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
 
 #### Embedded Peripherals
-![AES-128](https://img.shields.io/badge/AES--128-228B22?style=flat)
+[![AES-128](https://img.shields.io/badge/AES--128-228B22?style=flat)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 &nbsp;
-![Watchdog](https://img.shields.io/badge/Watchdog-DC143C?style=flat)
+[![Watchdog](https://img.shields.io/badge/Watchdog-DC143C?style=flat)](https://en.wikipedia.org/wiki/Watchdog_timer)
 &nbsp;
-![DMA](https://img.shields.io/badge/DMA-9932CC?style=flat)
+[![DMA](https://img.shields.io/badge/DMA-9932CC?style=flat)](https://en.wikipedia.org/wiki/Direct_memory_access)
 &nbsp;
-![NVIC](https://img.shields.io/badge/NVIC-708090?style=flat)
+[![NVIC](https://img.shields.io/badge/NVIC-708090?style=flat)](https://developer.arm.com/documentation/ddi0403/latest/programmers-model/control-registers/nvic)
 &nbsp;
-![RTC](https://img.shields.io/badge/RTC-006400?style=flat)
+[![RTC](https://img.shields.io/badge/RTC-006400?style=flat)](https://en.wikipedia.org/wiki/Real-time_clock)
 &nbsp;
-![EXTI](https://img.shields.io/badge/EXTI-FF4500?style=flat)
+[![EXTI](https://img.shields.io/badge/EXTI-FF4500?style=flat)](https://wiki.st.com/stm32mcu/wiki/EXTI)
 &nbsp;
-![Timers](https://img.shields.io/badge/Timers-4682B4?style=flat)
+[![Timers](https://img.shields.io/badge/Timers-4682B4?style=flat)](https://en.wikipedia.org/wiki/Timer_(computing))
 &nbsp;
-![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)
+[![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 &nbsp;
-![ADC](https://img.shields.io/badge/ADC-4682B4?style=flat)
+[![ADC](https://img.shields.io/badge/ADC-4682B4?style=flat)](https://en.wikipedia.org/wiki/Analog-to-digital_converter)
 &nbsp;
-![DAC](https://img.shields.io/badge/DAC-9370DB?style=flat)
+[![DAC](https://img.shields.io/badge/DAC-9370DB?style=flat)](https://en.wikipedia.org/wiki/Digital-to-analog_converter)
 &nbsp;
-![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)
+[![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)](https://en.wikipedia.org/wiki/Pulse-width_modulation)
 &nbsp;
-![etc...](https://img.shields.io/badge/etc...-777777?style=flat)
+[![etc...](https://img.shields.io/badge/etc...-777777?style=flat)](#)
 
 #### Embedded Protocols
-![UART](https://img.shields.io/badge/UART-007ACC?style=flat)
+[![UART](https://img.shields.io/badge/UART-007ACC?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 &nbsp;
-![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)
+[![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)](https://en.wikipedia.org/wiki/I%C2%B2C)
 &nbsp;
-![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)
+[![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
 &nbsp;
-![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)
+[![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)](https://en.wikipedia.org/wiki/Wi-Fi)
 &nbsp;
-![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)
+[![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)](https://en.wikipedia.org/wiki/LoRa)
 &nbsp;
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)
+[![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)](https://en.wikipedia.org/wiki/MQTT)
 &nbsp;
-![etc...](https://img.shields.io/badge/etc...-777777?style=flat)
+[![etc...](https://img.shields.io/badge/etc...-777777?style=flat)](#)
 
 #### Operating Systems & Environments
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 &nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 &nbsp;
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003865?style=flat&logo=freertos&logoColor=white)
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003865?style=flat&logo=freertos&logoColor=white)](https://en.wikipedia.org/wiki/FreeRTOS)
 
 #### Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 &nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
 &nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 &nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/OpenCV)
 &nbsp;
-![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
+[![Etc](https://img.shields.io/badge/etc...-777777?style=flat)](#)
 
 #### Software
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)](https://en.wikipedia.org/wiki/MATLAB)
 &nbsp;
-![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=flat)
+[![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=flat)](https://en.wikipedia.org/wiki/Simulink)
 &nbsp;
-![Simscape](https://img.shields.io/badge/Simscape-8A2BE2?style=flat)
+[![Simscape](https://img.shields.io/badge/Simscape-8A2BE2?style=flat)](https://www.mathworks.com/products/simscape.html)
 &nbsp;
-![KiCad](https://img.shields.io/badge/KiCad-223344?style=flat&logo=kicad&logoColor=white)
+[![KiCad](https://img.shields.io/badge/KiCad-223344?style=flat&logo=kicad&logoColor=white)](https://en.wikipedia.org/wiki/KiCad)
 &nbsp;
-![20-SIM](https://img.shields.io/badge/20--SIM-FF6C37?style=flat&logo=simulink&logoColor=white)
+[![20-SIM](https://img.shields.io/badge/20--SIM-FF6C37?style=flat&logo=simulink&logoColor=white)](https://www.20sim.com/)
 &nbsp;
-![Processing](https://img.shields.io/badge/Processing-0096D8?style=flat&logo=processingfoundation&logoColor=white)
+[![Processing](https://img.shields.io/badge/Processing-0096D8?style=flat&logo=processingfoundation&logoColor=white)](https://en.wikipedia.org/wiki/Processing_(programming_language))
 &nbsp;
-![Proteus](https://img.shields.io/badge/Proteus-1A1A1A?style=flat&logo=&logoColor=white)
+[![Proteus](https://img.shields.io/badge/Proteus-1A1A1A?style=flat&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Proteus_Design_Suite)
 &nbsp;
-![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)
+[![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)](https://en.wikipedia.org/wiki/Weka_(machine_learning))
 &nbsp;
-![Etc](https://img.shields.io/badge/etc...-777777?style=flat)
+[![Etc](https://img.shields.io/badge/etc...-777777?style=flat)](#)
 
 ---
 
