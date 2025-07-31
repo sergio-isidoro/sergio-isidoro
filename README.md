@@ -67,11 +67,11 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![DMA](https://img.shields.io/badge/DMA-9932CC?style=flat)](https://en.wikipedia.org/wiki/Direct_memory_access)
 &nbsp;
-[![NVIC](https://img.shields.io/badge/NVIC-708090?style=flat)](https://developer.arm.com/documentation/ddi0403/latest/programmers-model/control-registers/nvic)
+[![NVIC](https://img.shields.io/badge/NVIC-708090?style=flat)](https://en.wikipedia.org/wiki/Nested_vectored_interrupt_controller)
 &nbsp;
 [![RTC](https://img.shields.io/badge/RTC-006400?style=flat)](https://en.wikipedia.org/wiki/Real-time_clock)
 &nbsp;
-[![EXTI](https://img.shields.io/badge/EXTI-FF4500?style=flat)](https://wiki.st.com/stm32mcu/wiki/EXTI)
+[![EXTI](https://img.shields.io/badge/EXTI-FF4500?style=flat)](https://en.wikipedia.org/wiki/Interrupt)
 &nbsp;
 [![Timers](https://img.shields.io/badge/Timers-4682B4?style=flat)](https://en.wikipedia.org/wiki/Timer_(computing))
 &nbsp;
@@ -83,7 +83,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)](https://en.wikipedia.org/wiki/Pulse-width_modulation)
 &nbsp;
-[![etc...](https://img.shields.io/badge/etc...-777777?style=flat)](#)
+[![etc...](https://img.shields.io/badge/etc...-777777?style=flat)](https://en.wikipedia.org/wiki/Peripheral)
 
 #### Embedded Protocols
 [![UART](https://img.shields.io/badge/UART-007ACC?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
