@@ -12,7 +12,7 @@ I love blending **logic with creativity** whether it’s debugging a tricky issu
 
 Outside of engineering, I enjoy **cycling**, **music**, and spending time in **nature** to stay balanced and inspired.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8D+Follow+me+on+LinkedIn!&font=Courier+New&size=10&duration=1500&pause=2000&color=0077B5)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8D+Follow+me+on+LinkedIn!&font=Courier+New&size=15&duration=1500&pause=2000&color=0077B5)](#)
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-isidoro/)
 
