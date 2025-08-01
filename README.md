@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi+there!;%F0%9F%99%8C+Welcome+to+my+GitHub!&font=Courier+New&size=26&padding=20&lineHeight=50&duration=1000&pause=500)](#)
-
 ## I'm Sérgio Isidoro, Junior Embedded & Electronics Engineer
 
 ### 🧑‍💻 About Me
@@ -13,11 +12,12 @@ I love blending **logic with creativity** whether it’s debugging a tricky issu
 
 Outside of engineering, I enjoy **cycling**, **music**, and spending time in **nature** to stay balanced and inspired.
 
----
-
-### 📫 Get in touch
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8D+Follow+me+on+LinkedIn!&font=Courier+New&size=10&duration=1500&pause=2000&color=0077B5)](#)
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-isidoro/)
+
+
+
 
 ---
 
