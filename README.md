@@ -1,8 +1,5 @@
-# 👋 Hi there! 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi+there!;Welcome+to+my+GitHub!&size=30&padding=15&lineHeight=50)](https://git.io/typing-svg)
 ## I'm Sérgio Isidoro, Junior Embedded & Electronics Engineer
-
----
 
 ### 🧑‍💻 About Me
 
