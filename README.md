@@ -143,9 +143,9 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=donut&theme=github_dark&langs_count=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=donut&theme=github_dark&langs_count=10)](#)
 &nbsp;
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)](#)
 
 ---
 
@@ -157,4 +157,4 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93.SCRF_HP)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93.SCRF_HP)](#)
