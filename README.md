@@ -79,7 +79,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 [![etc...](https://img.shields.io/badge/etc...-777777?style=flat)](https://en.wikipedia.org/wiki/Peripheral)
 
 #### Embedded Protocols
-[![UART](https://img.shields.io/badge/UART-007ACC?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
+[![UART](https://img.shields.io/badge/UART-FFA500?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 &nbsp;
 [![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 &nbsp;
