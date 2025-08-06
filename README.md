@@ -131,9 +131,9 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![Processing](https://img.shields.io/badge/Processing-0096D8?style=flat&logo=processingfoundation&logoColor=white)](https://en.wikipedia.org/wiki/Processing_(programming_language))
 &nbsp;
-[![Proteus](https://img.shields.io/badge/Proteus-1A1A1A?style=flat&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Proteus_Design_Suite)
+[![Proteus](https://img.shields.io/badge/Proteus-DC143C?style=flat&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Proteus_Design_Suite)
 &nbsp;
-[![LabVIEW](https://img.shields.io/badge/LabVIEW-007ACC?style=flat)](https://en.wikipedia.org/wiki/LabVIEW)
+[![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=flat)](https://en.wikipedia.org/wiki/LabVIEW)
 &nbsp;
 [![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)](https://en.wikipedia.org/wiki/Weka_(machine_learning))
 &nbsp;
