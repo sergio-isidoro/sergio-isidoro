@@ -146,7 +146,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 
 ## 🐍 Contribution Snake
 
-[![snake gif](https://github.com/manoper93/manoper93/blob/main/output/github-contribution-grid-snake.svg)]
+[![Snake animation](https://github.com/manoper93/manoper93/blob/main/dist/github-contribution-grid-snake.svg)]
 
 ---
 
