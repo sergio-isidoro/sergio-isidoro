@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi+there!;%F0%9F%99%8C+Welcome+to+my+GitHub!&font=Courier+New&size=26&padding=20&lineHeight=50&duration=1000&pause=500)](#)
+<div align="center">
+ <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
+  <img class="image" src="header.svg" alt="Click to see the source">
+ </a>
+</div>
 ## I'm Sérgio Isidoro, Junior Embedded Systems Engineer
 
 ### 🧑‍💻 About Me
