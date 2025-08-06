@@ -59,9 +59,9 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 [![ESP32](https://img.shields.io/badge/Espressif-008080?style=flat&logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
 
 #### Embedded Peripherals
-[![AES-128](https://img.shields.io/badge/AES--128-228B22?style=flat)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+[![AES](https://img.shields.io/badge/AES-228B22?style=flat)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 &nbsp;
-[![Watchdog](https://img.shields.io/badge/Watchdog-DC143C?style=flat)](https://en.wikipedia.org/wiki/Watchdog_timer)
+[![WDG](https://img.shields.io/badge/WDG-DC143C?style=flat)](https://en.wikipedia.org/wiki/Watchdog_timer)
 &nbsp;
 [![DMA](https://img.shields.io/badge/DMA-9932CC?style=flat)](https://en.wikipedia.org/wiki/Direct_memory_access)
 &nbsp;
