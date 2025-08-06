@@ -70,8 +70,6 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![Timers](https://img.shields.io/badge/Timers-4682B4?style=flat)](https://en.wikipedia.org/wiki/Timer_(computing))
 &nbsp;
-[![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
-&nbsp;
 [![ADC](https://img.shields.io/badge/ADC-4682B4?style=flat)](https://en.wikipedia.org/wiki/Analog-to-digital_converter)
 &nbsp;
 [![DAC](https://img.shields.io/badge/DAC-9370DB?style=flat)](https://en.wikipedia.org/wiki/Digital-to-analog_converter)
@@ -82,6 +80,8 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 
 #### Embedded Protocols
 [![UART](https://img.shields.io/badge/UART-007ACC?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
+&nbsp;
+[![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 &nbsp;
 [![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)](https://en.wikipedia.org/wiki/I%C2%B2C)
 &nbsp;
