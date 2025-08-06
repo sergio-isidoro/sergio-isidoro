@@ -6,22 +6,26 @@ on:
       - main
   schedule:
     - cron: '0 0 * * 0'
+  workflow_dispatch:
 
 jobs:
   generate_recent_languages:
     runs-on: ubuntu-latest
-    # Adicione este bloco de permissões
     permissions:
-      contents: read
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Generate recently used languages SVG
         uses: lowlighter/metrics@latest
         with:
+          # Use o nome do seu segredo aqui
+          token: ${{ secrets.token1 }}
+          
           filename: metrics.plugin.languages.recent.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >
