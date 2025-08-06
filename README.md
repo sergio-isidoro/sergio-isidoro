@@ -16,9 +16,6 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-isidoro/)
 
-
-
-
 ---
 
 ### 🧰 Tech Stack
