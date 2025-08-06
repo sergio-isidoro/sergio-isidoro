@@ -144,9 +144,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)](#)
 
-## 🐍 Contribution Snake
-
-[![Snake animation](https://github.com/manoper93/manoper93/blob/main/dist/github-contribution-grid-snake.svg)]
+![Snake animation](https://github.com/manoper93/manoper93/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
