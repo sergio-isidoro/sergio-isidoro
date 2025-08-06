@@ -3,6 +3,7 @@
   <img class="image" src="header.svg" alt="Click to see the source">
  </a>
 </div>
+
 ## I'm Sérgio Isidoro, Junior Embedded Systems Engineer
 
 ### 🧑‍💻 About Me
