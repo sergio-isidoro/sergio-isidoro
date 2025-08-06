@@ -133,6 +133,8 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![Proteus](https://img.shields.io/badge/Proteus-1A1A1A?style=flat&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Proteus_Design_Suite)
 &nbsp;
+[![LabVIEW](https://img.shields.io/badge/LabVIEW-007ACC?style=flat)](https://en.wikipedia.org/wiki/LabVIEW)
+&nbsp;
 [![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)](https://en.wikipedia.org/wiki/Weka_(machine_learning))
 &nbsp;
 [![Etc](https://img.shields.io/badge/etc...-777777?style=flat)](#)
