@@ -144,7 +144,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)](#)
 
-[![Languages](./metrics.plugin.languages.svg)]
+![Recently Used Languages](./metrics.plugin.languages.recent.svg)
 
 ---
 
