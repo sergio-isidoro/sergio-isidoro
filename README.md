@@ -1,5 +1,7 @@
 <div align="center">
-  <img class="image" src="header.svg" alt="Click to see the source">
+  <a href="#">
+    <img class="image" src="header.svg" alt="">
+  </a>
 </div>
 
 ## I'm Sérgio Isidoro, Junior Embedded Systems Engineer
@@ -18,7 +20,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Follow+me+on+LinkedIn!&font=Courier+New&size=20&duration=2000&pause=1000&color=0077B5&center=true&vCenter=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Follow+me+on+LinkedIn!&font=Courier+New&size=20&duration=2000&pause=1000&color=0077B5&center=true&vCenter=true)](#)
   <br>
   <a href="https://www.linkedin.com/in/sergio-isidoro/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn.iconfinder.com/data/icons/social-media-2210/24/Linkedin-512.png" alt="LinkedIn Logo" width="48" height="48" style="vertical-align: middle;" />
@@ -86,7 +88,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)](https://en.wikipedia.org/wiki/Pulse-width_modulation)
 &nbsp;
-[![etc...](https://img.shields.io/badge/etc...-777777?style=flat)]
+[![etc...](https://img.shields.io/badge/etc...-777777?style=flat)](#)
 
 #### Embedded Protocols
 [![UART](https://img.shields.io/badge/UART-FFA500?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
@@ -103,7 +105,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)](https://en.wikipedia.org/wiki/MQTT)
 &nbsp;
-[![etc...](https://img.shields.io/badge/etc...-777777?style=flat)]
+[![etc...](https://img.shields.io/badge/etc...-777777?style=flat)](#)
 
 #### Operating Systems & Environments
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
@@ -123,7 +125,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/OpenCV)
 &nbsp;
-[![Etc](https://img.shields.io/badge/etc...-777777?style=flat)]
+[![Etc](https://img.shields.io/badge/etc...-777777?style=flat)](#)
 
 #### Software
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)](https://en.wikipedia.org/wiki/MATLAB)
@@ -144,7 +146,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)](https://en.wikipedia.org/wiki/Weka_(machine_learning))
 &nbsp;
-[![Etc](https://img.shields.io/badge/etc...-777777?style=flat)]
+[![Etc](https://img.shields.io/badge/etc...-777777?style=flat)](#)
 
 ---
 
@@ -153,10 +155,10 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=donut&theme=github_dark&langs_count=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=donut&theme=github_dark&langs_count=10)](#)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)](#)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93)](#)
 
 </div>
