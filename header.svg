@@ -23,7 +23,7 @@
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
 
-          animation: typing 3s steps(8) infinite, blink 0.5s step-end infinite alternate;
+          animation: typing 1.5s steps(8) infinite, blink 0.5s step-end infinite alternate;
         }
 
         @keyframes typing {
