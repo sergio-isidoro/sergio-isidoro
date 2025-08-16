@@ -18,16 +18,6 @@ I love blending **logic with creativity** whether it’s **debugging** a tricky 
 
 Outside of engineering, I enjoy **cycling**, **music**, and spending time in **nature** to stay balanced and inspired.
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Follow+me+on+LinkedIn!&font=Courier+New&size=20&duration=2000&pause=1000&color=0077B5&center=true&vCenter=true)](#)
-  <br>
-  <a href="https://www.linkedin.com/in/sergio-isidoro/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.iconfinder.com/data/icons/social-media-2210/24/Linkedin-512.png" alt="LinkedIn Logo" width="48" height="48" style="vertical-align: middle;" />
-  </a>
-</div>
-
-
 ---
 
 ### 🧰 Tech Stack
