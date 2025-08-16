@@ -56,7 +56,7 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 #### Database Technologies
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
 &nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/MongoDB)
+[![Baserow](https://img.shields.io/badge/Baserow-0C7D73?style=flat&logo=baserow&logoColor=white)](https://baserow.io)
 &nbsp;
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQLite)
 
@@ -96,8 +96,6 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 [![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)](https://en.wikipedia.org/wiki/I%C2%B2C)
 &nbsp;
 [![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
-&nbsp;
-[![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)](https://en.wikipedia.org/wiki/Wi-Fi)
 &nbsp;
 [![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)](https://en.wikipedia.org/wiki/LoRa)
 &nbsp;
