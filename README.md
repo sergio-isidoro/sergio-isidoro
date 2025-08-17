@@ -120,6 +120,8 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![Simscape](https://img.shields.io/badge/Simscape-8A2BE2?style=flat)](https://en.m.wikipedia.org/wiki/MATLAB)
 &nbsp;
+[![GNU Octave](https://img.shields.io/badge/GNU_Octave-00457C?style=flat&logo=gnu-octave&logoColor=white)](https://en.wikipedia.org/wiki/GNU_Octave)
+&nbsp;
 [![20-SIM](https://img.shields.io/badge/20--SIM-FF6C37?style=flat&logo=simulink&logoColor=white)](https://en.m.wikipedia.org/wiki/20-sim)
 &nbsp;
 [![Processing](https://img.shields.io/badge/Processing-0096D8?style=flat&logo=processingfoundation&logoColor=white)](https://en.wikipedia.org/wiki/Processing_(programming_language))
@@ -131,9 +133,11 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![Proteus](https://img.shields.io/badge/Proteus-DC143C?style=flat&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Proteus_Design_Suite)
 &nbsp;
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
+&nbsp;
 [![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=flat)](https://en.wikipedia.org/wiki/LabVIEW)
 &nbsp;
-[![LTSpice](https://img.shields.io/badge/LTSpice-0066CC?style=flat)](https://en.wikipedia.org/wiki/LTspice)
+[![PSpice](https://img.shields.io/badge/PSpice-FF6600?style=flat)](https://en.wikipedia.org/wiki/PSpice)
 
 #### 3D Design / Multimedia / Graphics
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://en.wikipedia.org/wiki/Blender_(software))
