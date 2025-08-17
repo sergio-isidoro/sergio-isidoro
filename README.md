@@ -7,16 +7,17 @@
 ## I'm Sérgio Isidoro, Junior Embedded Systems Engineer
 
 ### 🧑‍💻 About Me
+My name is **Sérgio Isidoro**, and I graduated in **Electrical and Computer Engineering** from **ISEP** in 2025. Since 2020, I have dedicated my career to creating **empirical and resilient products**, working with **STMicroelectronics, Microchip, and Espressif platforms**.
 
-My name is **Sérgio Isidoro**, I'm from **Portugal**, and I recently completed my **Bachelor's degree in Electrical and Computer Engineering** at **ISEP** (School of Engineering – Polytechnic Institute of Porto) in 2025.
+In **software**, I build **embedded applications** that balance **abstraction and control** — integrating **tests**, **toolchains**, and **enhancements** that make the system **reliable and scalable**.
 
-Since 2020, I've been developing embedded systems using STMicroelectronics, Microchip, and Espressif platforms.
-I’m passionate about **firmware**, **hardware design** and **real-time systems**.
-I work comfortably with **low-level programming** and also with **high-level abstractions** when needed, always aiming for **performance-optimized** and **low-power solutions**.
+In **firmware**, I specialize in **low-level code**, **resource management**, and **real-time systems**, where every **cycle** and every **mA** counts.
 
-I love blending **logic with creativity** whether it’s **debugging** a tricky issue, designing a **PCB**, or **optimizing embedded communication protocols**.
+In **hardware**, I design everything from **schematics** to **optimized PCBs** — paying attention to **power planning**, **signal integrity**, and **component selection** to ensure the product works in the real world.
 
-Outside of engineering, I enjoy **cycling**, **music**, and spending time in **nature** to stay balanced and inspired.
+I love where **logic and creativity meet**: **debugging elusive behavior**, **redesigning a power path to save energy**, or **rethinking a communication protocol to reduce latency**. 
+
+Outside of engineering, I find inspiration in **cycling**, **music**, and **nature** — habits that keep my **curiosity sharp** and my **mind balanced**.
 
 ---
 
