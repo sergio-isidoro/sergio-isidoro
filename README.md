@@ -7,17 +7,15 @@
 ## I'm Sérgio Isidoro, Junior Embedded Systems Engineer
 
 ### 🧑‍💻 About Me
-My name is **Sérgio Isidoro**, and I graduated in **Electrical and Computer Engineering** from **ISEP** in 2025. Since 2020, I have dedicated my career to creating **empirical and resilient products**, working with **STMicroelectronics, Microchip, and Espressif platforms**.
+My name is **Sérgio Isidoro**, and I graduated in **Electrical and Computer Engineering** from **ISEP** in 2025. Since 2020, I have focused on developing **resilient and innovative products** across **software**, **firmware**, and **hardware** domains.
 
-In **software**, I build **embedded applications** that balance **abstraction and control** — integrating **tests**, **toolchains**, and **enhancements** that make the system **reliable and scalable**.
+I am passionate about **programming** and **software development**, building **embedded applications** that balance **abstraction and control**, integrating **testing**, **toolchains**, and **enhancements** to make systems **reliable and scalable**. 
 
-In **firmware**, I specialize in **low-level code**, **resource management**, and **real-time systems**, where every **cycle** and every **mA** counts.
+In **firmware**, I work with **low-level code**, **real-time systems**, and **resource management**, ensuring every **cycle** and **milliamp** counts.
 
-In **hardware**, I design everything from **schematics** to **optimized PCBs** — paying attention to **power planning**, **signal integrity**, and **component selection** to ensure the product works in the real world.
+In **hardware**, I design **schematics** and **optimized PCBs**, considering **power planning**, **signal integrity**, and **component selection** to deliver **reliable real-world performance**.
 
-I love where **logic and creativity meet**: **debugging elusive behavior**, **redesigning a power path to save energy**, or **rethinking a communication protocol to reduce latency**. 
-
-Outside of engineering, I find inspiration in **cycling**, **music**, and **nature** — habits that keep my **curiosity sharp** and my **mind balanced**.
+I thrive where **logic meets creativity**, **debugging elusive behaviors**, **optimizing code and systems**, or **redesigning communication protocols** to improve **efficiency**.
 
 ---
 
