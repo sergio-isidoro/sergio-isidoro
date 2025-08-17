@@ -40,8 +40,6 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
 &nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
-&nbsp;
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
 
 #### Database Technologies
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
@@ -101,6 +99,8 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 &nbsp;
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003865?style=flat&logo=freertos&logoColor=white)](https://en.wikipedia.org/wiki/FreeRTOS)
+&nbsp;
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
 
 #### Development Tools
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
@@ -113,26 +113,28 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/OpenCV)
 
-#### Software
+#### Mathematics & Simulation
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)](https://en.wikipedia.org/wiki/MATLAB)
 &nbsp;
 [![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=flat)](https://en.wikipedia.org/wiki/Simulink)
 &nbsp;
 [![Simscape](https://img.shields.io/badge/Simscape-8A2BE2?style=flat)](https://en.m.wikipedia.org/wiki/MATLAB)
 &nbsp;
-[![KiCad](https://img.shields.io/badge/KiCad-223344?style=flat&logo=kicad&logoColor=white)](https://en.wikipedia.org/wiki/KiCad)
-&nbsp;
 [![20-SIM](https://img.shields.io/badge/20--SIM-FF6C37?style=flat&logo=simulink&logoColor=white)](https://en.m.wikipedia.org/wiki/20-sim)
 &nbsp;
 [![Processing](https://img.shields.io/badge/Processing-0096D8?style=flat&logo=processingfoundation&logoColor=white)](https://en.wikipedia.org/wiki/Processing_(programming_language))
 &nbsp;
+[![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)](https://en.wikipedia.org/wiki/Weka_(machine_learning))
+
+#### Electronics & Circuits
+[![KiCad](https://img.shields.io/badge/KiCad-223344?style=flat&logo=kicad&logoColor=white)](https://en.wikipedia.org/wiki/KiCad)
+&nbsp;
 [![Proteus](https://img.shields.io/badge/Proteus-DC143C?style=flat&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Proteus_Design_Suite)
 &nbsp;
 [![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=flat)](https://en.wikipedia.org/wiki/LabVIEW)
-&nbsp;
-[![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)](https://en.wikipedia.org/wiki/Weka_(machine_learning))
-&nbsp;
-[![Etc](https://img.shields.io/badge/etc...-777777?style=flat)](#)
+
+#### 3D Design / Multimedia
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://www.blender.org/)
 
 ---
 
