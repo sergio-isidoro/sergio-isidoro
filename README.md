@@ -133,14 +133,14 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=flat)](https://en.wikipedia.org/wiki/LabVIEW)
 &nbsp;
-[![LTSpice](https://img.shields.io/badge/LTSpice-0066CC?style=flat)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+[![LTSpice](https://img.shields.io/badge/LTSpice-0066CC?style=flat)](https://en.wikipedia.org/wiki/LTspice)
 
 #### 3D Design / Multimedia / Graphics
-[![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://www.blender.org/)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://en.wikipedia.org/wiki/Blender_(software))
 &nbsp;
-[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Illustrator)
 &nbsp;
-[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 
 ---
 
