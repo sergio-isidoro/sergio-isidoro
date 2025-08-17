@@ -57,6 +57,23 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 &nbsp;
 [![ESP32](https://img.shields.io/badge/Espressif-008080?style=flat&logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
 
+#### Embedded Protocols
+[![UART](https://img.shields.io/badge/UART-FFA500?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
+&nbsp;
+[![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
+&nbsp;
+[![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)](https://en.wikipedia.org/wiki/I%C2%B2C)
+&nbsp;
+[![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
+&nbsp;
+[![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)](https://en.wikipedia.org/wiki/LoRa)
+&nbsp;
+[![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)](https://en.wikipedia.org/wiki/MQTT)
+&nbsp;
+[![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)](https://en.wikipedia.org/wiki/Bluetooth)
+&nbsp;
+[![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)](https://en.wikipedia.org/wiki/Wi-Fi)
+
 #### Embedded Peripherals
 [![AES](https://img.shields.io/badge/AES-228B22?style=flat)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 &nbsp;
@@ -77,23 +94,6 @@ Outside of engineering, I enjoy **cycling**, **music**, and spending time in **n
 [![DAC](https://img.shields.io/badge/DAC-9370DB?style=flat)](https://en.wikipedia.org/wiki/Digital-to-analog_converter)
 &nbsp;
 [![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)](https://en.wikipedia.org/wiki/Pulse-width_modulation)
-
-#### Embedded Protocols
-[![UART](https://img.shields.io/badge/UART-FFA500?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
-&nbsp;
-[![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
-&nbsp;
-[![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)](https://en.wikipedia.org/wiki/I%C2%B2C)
-&nbsp;
-[![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
-&nbsp;
-[![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)](https://en.wikipedia.org/wiki/LoRa)
-&nbsp;
-[![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)](https://en.wikipedia.org/wiki/MQTT)
-&nbsp;
-[![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)](https://en.wikipedia.org/wiki/Bluetooth)
-&nbsp;
-[![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)](https://en.wikipedia.org/wiki/Wi-Fi)
 
 #### Operating Systems & Environments
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
