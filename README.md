@@ -158,4 +158,6 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93)](#)
 
+[![Snake animation](output/github-contribution-grid-snake.svg)](#)
+
 </div>
