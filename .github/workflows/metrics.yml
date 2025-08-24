@@ -23,7 +23,7 @@ jobs:
           user: manoper93
 
           # O seu token guardado nos segredos
-          token: ${{ secrets.METRICS_TOKEN1 }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Opções de configuração
           template: classic
