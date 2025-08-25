@@ -156,8 +156,6 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)](#)
 
-[![Snake animation](output/github-contribution-grid-snake.svg)](#)
-
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93)](#)
 
 </div>
