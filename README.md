@@ -156,6 +156,8 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergio-isidoro&show_icons=true&theme=github_dark&count_private=true)](#)
 
+[![Snake animation](dist/github-snake-dark.svg)](#)
+
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sergio-isidoro)](#)
 
 </div>
