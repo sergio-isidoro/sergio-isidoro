@@ -152,10 +152,10 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoper93&layout=donut&theme=github_dark&langs_count=10)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-isidoro&layout=donut&theme=github_dark&langs_count=10)](#)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoper93&show_icons=true&theme=github_dark&count_private=true)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergio-isidoro&show_icons=true&theme=github_dark&count_private=true)](#)
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manoper93)](#)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sergio-isidoro)](#)
 
 </div>
