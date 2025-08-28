@@ -147,7 +147,7 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 
 ---
 
-### 📊 GitHub Stats
+
 
 
 <div align="center">
@@ -158,6 +158,12 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 
 [![Snake animation](dist/github-snake-dark.svg#gh-dark-mode-only)](#)
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sergio-isidoro)](#)
+<details>
+  <summary>Visitors</summary>
+    
+  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sergio-isidoro)](#)
+  
+  </details>
 
 </div>
+
