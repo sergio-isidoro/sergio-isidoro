@@ -69,7 +69,7 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 &nbsp;
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)](https://en.wikipedia.org/wiki/Bluetooth)
 &nbsp;
-[![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=flat&logo=wi-fi&logoColor=white)](https://en.wikipedia.org/wiki/Wi-Fi)
+[![Wi-Fi](https://img.shields.io/badge/Wi--Fi-1e1e1e?style=flat&logo=wi-fi&logoColor=white)](https://en.wikipedia.org/wiki/Wi-Fi)
 
 #### Embedded Peripherals
 [![AES](https://img.shields.io/badge/AES-228B22?style=flat)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
