@@ -161,8 +161,10 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 <details>
   <summary>Visitors</summary>
     
-  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sergio-isidoro)](#)
-  
+  [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sergio-isidoro)](#)
+  [![GitHub Pageviews](https://komarev.com/ghpvc/?username=sergio-isidoro&label=Profile%20views&color=0e75b6&style=flat)](#)
+  [![Profile Views](https://komarev.com/ghpvc/?username=sergio-isidoro&label=Unique%20visitors&color=0e75b6)](#)
+
   </details>
 
 </div>
