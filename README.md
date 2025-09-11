@@ -158,12 +158,7 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 
 [![Snake animation](dist/github-snake-dark.svg#gh-dark-mode-only)](#)
 
-<details>
-  <summary>Visitors</summary>
-    
-  [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sergio-isidoro)](#)
-
-  </details>
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sergio-isidoro)](#)
 
 </div>
 
