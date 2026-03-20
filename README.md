@@ -10,7 +10,7 @@
   
 </div>
 
-I’m **Sérgio Isidoro**, an **ISEP** graduate (2025) and Embedded Systems Engineer. Since 2020, my daily routine has mostly consisted of converting caffeine into code and PCBs, while occasionally explaining to my hardware exactly why it isn’t doing what I told it to do.
+My name is **Sérgio Isidoro**, I graduated in 2025 and i am a Embedded Systems Engineer. Since 2020, my daily routine has mostly consisted of converting caffeine into code and PCBs, while occasionally explaining to my hardware exactly why it isn’t doing what I told it to do.
 
 I navigate the **Engineering Bermuda Triangle**: **Software**, **Firmware**, and **Hardware**. My goal? To build products so resilient they survive even the most "creative" users.
 
@@ -24,7 +24,7 @@ Where I count every clock cycle and milliamp as if they were coming out of my ow
 
 **🔌 Hardware**
 I design PCBs so clean that electrons barely know which way to turn—until I realize I missed a via. 
-*My focus: signal integrity, thermal dissipation, and praying my components aren't extinct on DigiKey by tomorrow.*
+*My focus: signal integrity, thermal dissipation, and praying my components aren't extinct on market by tomorrow.*
 
 I live for hunting down "impossible" bugs and optimizing communication protocols just for the sport of it. 
 **If it involves logic, creativity, and coffee, consider it done.**
