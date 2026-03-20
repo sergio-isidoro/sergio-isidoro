@@ -6,23 +6,23 @@
 
 <div align="center">
   
-## 🧑‍💻 About Me
+## About Me
   
 </div>
 
-My name is **Sérgio Isidoro**, I graduated in 2025 and i am a Embedded Systems Engineer. Since 2020, my daily routine has mostly consisted of converting caffeine into code and PCBs, while occasionally explaining to my hardware exactly why it isn’t doing what I told it to do.
+My name is **Sérgio Isidoro**, i am a Embedded Systems Engineer. Since 2020, my daily routine has mostly consisted of converting caffeine into code and PCBs, while occasionally explaining to my hardware exactly why it isn’t doing what I told it to do.
 
 I navigate the **Engineering Bermuda Triangle**: **Software**, **Firmware**, and **Hardware**. My goal? To build products so resilient they survive even the most "creative" users.
 
-**💻 Software**
+- **Software:**<br>
 I build embedded applications that balance high-level elegance with low-level chaos. 
 *If the toolchain isn't automated, something is fundamentally wrong.*
 
-**⚡ Firmware**
+- **Firmware:**<br>
 Where I count every clock cycle and milliamp as if they were coming out of my own pocket. 
 *Specialist in taming RTOS and having heated debates with compilers.*
 
-**🔌 Hardware**
+- **Hardware:**<br>
 I design PCBs so clean that electrons barely know which way to turn—until I realize I missed a via. 
 *My focus: signal integrity, thermal dissipation, and praying my components aren't extinct on market by tomorrow.*
 
@@ -35,7 +35,7 @@ I live for hunting down "impossible" bugs and optimizing communication protocols
   
 ## Tech Stack
 
-#### Programming Languages
+### Programming Languages
 [![Assembly](https://img.shields.io/badge/Assembly-555555)](https://en.wikipedia.org/wiki/Assembly_language)
 &nbsp;
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -54,40 +54,22 @@ I live for hunting down "impossible" bugs and optimizing communication protocols
 &nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
 
-#### Database Technologies
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
+### Mathematics & Simulation
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)](https://en.wikipedia.org/wiki/MATLAB)
 &nbsp;
-[![Baserow](https://img.shields.io/badge/Baserow-0C7D73?style=flat&logo=baserow&logoColor=white)](https://baserow.io)
+[![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=flat)](https://en.wikipedia.org/wiki/Simulink)
 &nbsp;
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQLite)
+[![Simscape](https://img.shields.io/badge/Simscape-8A2BE2?style=flat)](https://en.m.wikipedia.org/wiki/MATLAB)
+&nbsp;
+[![GNU Octave](https://img.shields.io/badge/GNU_Octave-00457C?style=flat&logo=gnu-octave&logoColor=white)](https://en.wikipedia.org/wiki/GNU_Octave)
+&nbsp;
+[![20-SIM](https://img.shields.io/badge/20--SIM-FF6C37?style=flat&logo=simulink&logoColor=white)](https://en.m.wikipedia.org/wiki/20-sim)
+&nbsp;
+[![Processing](https://img.shields.io/badge/Processing-0096D8?style=flat&logo=processingfoundation&logoColor=white)](https://en.wikipedia.org/wiki/Processing_(programming_language))
+&nbsp;
+[![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)](https://en.wikipedia.org/wiki/Weka_(machine_learning))
 
-#### Platforms & Microcontrollers
-[![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-blue?style=flat&logo=stmicroelectronics&logoColor=white)](https://en.wikipedia.org/wiki/STMicroelectronics)
-&nbsp;
-[![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Microchip_Technology)
-&nbsp;
-[![ESP32](https://img.shields.io/badge/Espressif-008080?style=flat&logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
-
-#### Embedded Protocols
-[![UART](https://img.shields.io/badge/UART-FFA500?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
-&nbsp;
-[![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
-&nbsp;
-[![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)](https://en.wikipedia.org/wiki/I%C2%B2C)
-&nbsp;
-[![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
-&nbsp;
-[![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)](https://en.wikipedia.org/wiki/LoRa)
-&nbsp;
-[![RF](https://img.shields.io/badge/RF-FF4500?style=flat&logo=antenna&logoColor=white)](https://en.wikipedia.org/wiki/Radio_frequency)
-&nbsp;
-[![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)](https://en.wikipedia.org/wiki/MQTT)
-&nbsp;
-[![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)](https://en.wikipedia.org/wiki/Bluetooth)
-&nbsp;
-[![Wi-Fi](https://img.shields.io/badge/Wi--Fi-1e1e1e?style=flat&logo=wi-fi&logoColor=white)](https://en.wikipedia.org/wiki/Wi-Fi)
-
-#### Embedded Peripherals
+### Embedded Peripherals
 [![AES](https://img.shields.io/badge/AES-228B22?style=flat)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 &nbsp;
 [![WDG](https://img.shields.io/badge/WDG-DC143C?style=flat)](https://en.wikipedia.org/wiki/Watchdog_timer)
@@ -108,18 +90,26 @@ I live for hunting down "impossible" bugs and optimizing communication protocols
 &nbsp;
 [![PWM](https://img.shields.io/badge/PWM-FF8C00?style=flat)](https://en.wikipedia.org/wiki/Pulse-width_modulation)
 
-#### Operating Systems & Environments
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+### Embedded Protocols
+[![UART](https://img.shields.io/badge/UART-FFA500?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 &nbsp;
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+[![USART](https://img.shields.io/badge/USART-1E90FF?style=flat)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 &nbsp;
-[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003865?style=flat&logo=freertos&logoColor=white)](https://en.wikipedia.org/wiki/FreeRTOS)
+[![I2C](https://img.shields.io/badge/I2C-003B57?style=flat)](https://en.wikipedia.org/wiki/I%C2%B2C)
 &nbsp;
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
+[![SPI](https://img.shields.io/badge/SPI-00686D?style=flat)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
 &nbsp;
-[![Zephyr](https://img.shields.io/badge/Zephyr-73298A?style=flat&logo=zephyrproject&logoColor=white)](https://www.zephyrproject.org/)
+[![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)](https://en.wikipedia.org/wiki/LoRa)
+&nbsp;
+[![RF](https://img.shields.io/badge/RF-FF4500?style=flat&logo=antenna&logoColor=white)](https://en.wikipedia.org/wiki/Radio_frequency)
+&nbsp;
+[![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)](https://en.wikipedia.org/wiki/MQTT)
+&nbsp;
+[![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)](https://en.wikipedia.org/wiki/Bluetooth)
+&nbsp;
+[![Wi-Fi](https://img.shields.io/badge/Wi--Fi-1e1e1e?style=flat&logo=wi-fi&logoColor=white)](https://en.wikipedia.org/wiki/Wi-Fi)
 
-#### Development Tools
+### Development Tools
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 &nbsp;
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
@@ -130,22 +120,18 @@ I live for hunting down "impossible" bugs and optimizing communication protocols
 &nbsp;
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/OpenCV)
 
-#### Mathematics & Simulation
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)](https://en.wikipedia.org/wiki/MATLAB)
+### OS & Environments
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 &nbsp;
-[![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=flat)](https://en.wikipedia.org/wiki/Simulink)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 &nbsp;
-[![Simscape](https://img.shields.io/badge/Simscape-8A2BE2?style=flat)](https://en.m.wikipedia.org/wiki/MATLAB)
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003865?style=flat&logo=freertos&logoColor=white)](https://en.wikipedia.org/wiki/FreeRTOS)
 &nbsp;
-[![GNU Octave](https://img.shields.io/badge/GNU_Octave-00457C?style=flat&logo=gnu-octave&logoColor=white)](https://en.wikipedia.org/wiki/GNU_Octave)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
 &nbsp;
-[![20-SIM](https://img.shields.io/badge/20--SIM-FF6C37?style=flat&logo=simulink&logoColor=white)](https://en.m.wikipedia.org/wiki/20-sim)
-&nbsp;
-[![Processing](https://img.shields.io/badge/Processing-0096D8?style=flat&logo=processingfoundation&logoColor=white)](https://en.wikipedia.org/wiki/Processing_(programming_language))
-&nbsp;
-[![Weka](https://img.shields.io/badge/Weka-007396?style=flat&logo=weka&logoColor=white)](https://en.wikipedia.org/wiki/Weka_(machine_learning))
+[![Zephyr](https://img.shields.io/badge/Zephyr-73298A?style=flat&logo=zephyrproject&logoColor=white)](https://www.zephyrproject.org/)
 
-#### Electronics & Circuits
+### Electronics & Circuits
 [![KiCad](https://img.shields.io/badge/KiCad-223344?style=flat&logo=kicad&logoColor=white)](https://en.wikipedia.org/wiki/KiCad)
 &nbsp;
 [![Proteus](https://img.shields.io/badge/Proteus-DC143C?style=flat&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Proteus_Design_Suite)
@@ -156,22 +142,30 @@ I live for hunting down "impossible" bugs and optimizing communication protocols
 &nbsp;
 [![PSpice](https://img.shields.io/badge/PSpice-FF6600?style=flat)](https://en.wikipedia.org/wiki/PSpice)
 
-#### 3D Design / Multimedia / Graphics
+### Microcontrollers
+[![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-blue?style=flat&logo=stmicroelectronics&logoColor=white)](https://en.wikipedia.org/wiki/STMicroelectronics)
+&nbsp;
+[![Microchip](https://img.shields.io/badge/Microchip-red?style=flat&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Microchip_Technology)
+&nbsp;
+[![ESP32](https://img.shields.io/badge/Espressif-008080?style=flat&logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
+
+### Database Technologies
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
+&nbsp;
+[![Baserow](https://img.shields.io/badge/Baserow-0C7D73?style=flat&logo=baserow&logoColor=white)](https://baserow.io)
+&nbsp;
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQLite)
+
+### 3D Design / Multimedia
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://en.wikipedia.org/wiki/Blender_(software))
 &nbsp;
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Illustrator)
 &nbsp;
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 
-</div>
-
-
-
-<div align="center">
+<br><br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-isidoro&layout=donut&theme=github_dark&langs_count=10)](#)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergio-isidoro&show_icons=true&theme=github_dark&count_private=true)](#)
 
 [![Snake animation](dist/github-snake-dark.svg#gh-dark-mode-only)](#)
 
