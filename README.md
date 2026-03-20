@@ -4,22 +4,36 @@
   </a>
 </div>
 
-## I'm Sérgio Isidoro, Junior Embedded Systems Engineer
+<div align="center">
+  
+## 🧑‍💻 About Me
+  
+</div>
 
-### 🧑‍💻 About Me
-My name is **Sérgio Isidoro**, and I graduated in **Electrical and Computer Engineering** from **ISEP** in 2025. Since 2020, I have focused on developing **resilient and innovative products** across **software**, **firmware**, and **hardware** domains.
+I’m **Sérgio Isidoro**, an **ISEP** graduate (2025) and Embedded Systems Engineer. Since 2020, my daily routine has mostly consisted of converting caffeine into code and PCBs, while occasionally explaining to my hardware exactly why it isn’t doing what I told it to do.
 
-I am passionate about **programming** and **software development**, building **embedded applications** that balance **abstraction and control**, integrating **testing**, **toolchains**, and **enhancements** to make systems **reliable and scalable**. 
+I navigate the **Engineering Bermuda Triangle**: **Software**, **Firmware**, and **Hardware**. My goal? To build products so resilient they survive even the most "creative" users.
 
-In **firmware**, I work with **low-level code**, **real-time systems**, and **resource management**, ensuring every **cycle** and **milliamp** counts.
+**💻 Software**
+I build embedded applications that balance high-level elegance with low-level chaos. 
+*If the toolchain isn't automated, something is fundamentally wrong.*
 
-In **hardware**, I design **schematics** and **optimized PCBs**, considering **power planning**, **signal integrity**, and **component selection** to deliver **reliable real-world performance**.
+**⚡ Firmware**
+Where I count every clock cycle and milliamp as if they were coming out of my own pocket. 
+*Specialist in taming RTOS and having heated debates with compilers.*
 
-I thrive where **logic meets creativity**, **debugging elusive behaviors**, **optimizing code and systems**, or **redesigning communication protocols** to improve **efficiency**.
+**🔌 Hardware**
+I design PCBs so clean that electrons barely know which way to turn—until I realize I missed a via. 
+*My focus: signal integrity, thermal dissipation, and praying my components aren't extinct on DigiKey by tomorrow.*
+
+I live for hunting down "impossible" bugs and optimizing communication protocols just for the sport of it. 
+**If it involves logic, creativity, and coffee, consider it done.**
 
 ---
 
-### 🧰 Tech Stack
+<div align="center">
+  
+## Tech Stack
 
 #### Programming Languages
 [![Assembly](https://img.shields.io/badge/Assembly-555555)](https://en.wikipedia.org/wiki/Assembly_language)
@@ -149,8 +163,7 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 &nbsp;
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 
----
-
+</div>
 
 
 
