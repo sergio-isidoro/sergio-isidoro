@@ -65,6 +65,8 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 &nbsp;
 [![LoRa](https://img.shields.io/badge/LoRa-00A9A5?style=flat)](https://en.wikipedia.org/wiki/LoRa)
 &nbsp;
+[![RF](https://img.shields.io/badge/RF-FF4500?style=flat&logo=antenna&logoColor=white)](https://en.wikipedia.org/wiki/Radio_frequency)
+&nbsp;
 [![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)](https://en.wikipedia.org/wiki/MQTT)
 &nbsp;
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)](https://en.wikipedia.org/wiki/Bluetooth)
@@ -100,6 +102,8 @@ I thrive where **logic meets creativity**, **debugging elusive behaviors**, **op
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003865?style=flat&logo=freertos&logoColor=white)](https://en.wikipedia.org/wiki/FreeRTOS)
 &nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
+&nbsp;
+[![Zephyr](https://img.shields.io/badge/Zephyr-73298A?style=flat&logo=zephyrproject&logoColor=white)](https://www.zephyrproject.org/)
 
 #### Development Tools
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
